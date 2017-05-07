@@ -1,2 +1,2 @@
 # chemCAT
-A computational knowledge engine for chemistry built for FC Hacks 2017 by Shania, Justin, Albert and Aditi.
+A computational knowledge engine for chemistry by Shania, Justin, Albert and Aditi. Top 5 finalist at FC Hacks 2017.
